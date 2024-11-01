@@ -2,7 +2,8 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+Back end services when I use node js express, 
+I am a full stack developer specializing in creating websites and web applications and systems. I solve problems, automate things, help businesses and people grow and improve their lives. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
