@@ -1,4 +1,4 @@
-![Node.js Banner](https://your-image-url.com/banner.png](https://learn.microsoft.com/en-us/gaming/playfab/sdks/nodejs/media/nodejs1.png)
+![Node.js Banner](https://learn.microsoft.com/en-us/gaming/playfab/sdks/nodejs/media/nodejs1.png)
 <h1 align="center">Node JS Developer</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
