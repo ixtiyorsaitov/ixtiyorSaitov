@@ -8,8 +8,8 @@ I am a full stack developer specializing in creating websites and web applicatio
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ixtiyor_Saitov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@misterikh_13-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
-[![Instagram Badge](https://img.shields.io/badge/@saitov_209-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/saitov_209)](https://www.instagram.com/saitov_209)
+[![Telegram Badge](https://img.shields.io/badge/@ikh_fs-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
+[![Instagram Badge](https://img.shields.io/badge/@saitov_209-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/saitov_fs)](https://www.instagram.com/saitov_209)
 
 
   
