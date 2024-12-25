@@ -1,40 +1,183 @@
-<h1 align="center">Full Stack Developer</h1>
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 
-Back end services when I use node js express, 
-I am a full stack developer specializing in creating websites and web applications and systems. I solve problems, automate things, help businesses and people grow and improve their lives. </br>
+<br />
+<!-- about me -->
+<p align="center">
+  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  <br />
+  <br />
+  🎓 Currently a high school student.
+  <br />
+  💻 I love to learn new technologies and frameworks.
+  <br />
+  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  <br />
+</p>
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+<!-- social handles -->
+<div align="center"> 
+<!-- youtube -->
+  <a href="https://www.youtube.com/@OPGAMER." target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <!-- twitter -->
+  <a href="https://twitter.com/technicalshubam" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+  <!-- gmail -->
+  <a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/sanidhyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ixtiyor_Saitov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@ikh_fs-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/ikh_fs)](https://t.me/ikh_fs) 
-[![Instagram Badge](https://img.shields.io/badge/@saitov_209-E1306C?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/saitov_fs)](https://www.instagram.com/saitov_fs)
+<hr />
+<!-- skills -->
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+      <!-- first row -->
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
+        </picture>
+          <br />
+          <!-- second row -->
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+        </picture>
 
+  </a>
+</p>
+<br />
 
-  
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<!-- deployment -->
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
+          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
+        </picture>
+  </a>
+<br />
+<a href="https://www.logalert.app">
+  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
+</a>
+</p>
+<hr />
 
-- :computer: I'm currently working on Node JS & Express
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :muscle: Do Bodybuilding & Calisthenics
-- :rocket: Always ready to collaborate for Dev Experiments
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
 
-## ⚡ Technologies
+  <hr />
 
-![Image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Image](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)
-![Image](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Image](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" alt="sanidhyy's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="sanidhyy's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
+    </picture>
+  </a>
+</p>
 
+<hr />
 
+<!-- repositories -->
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br />
+<!-- first row -->
+<div width="100%" align="center">
+  <!-- repo 1 -->
+  <a align="right" href="https://github.com/sanidhyy/duolingo-clone" title="Duolingo Clone">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" alt="sanidhyy's repository stats - Duolingo Clone" />
+    </picture>
+  </a>
+
+  <!-- repo 2 -->
+  <a align="left" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3D portfolio" />
+    </picture>
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<!-- second row -->
+<div width="100%" align="center">
+  <!-- repo 3 -->
+  <a align="left" href="https://github.com/sanidhyy/mern-admin" title="MERN Admin Dashboard">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - MERN Admin Dashboard" />
+    </picture>
+  </a>
+
+  <!-- repo 4 -->
+  <a align="right" href="https://github.com/sanidhyy/brainwave" title="Brainwave SaaS Landing Page">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - Brainwave SaaS Landing Page" />
+    </picture>
+  </a>
+</div>
+
+<!-- spaces -->
+
+<br /><br /><br /><br /><br /><br />
+
+<!-- show more repos -->
+<h4 align="center">
+  <a href="https://github.com/sanidhyy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
