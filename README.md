@@ -43,7 +43,7 @@
       <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,python,html,css,figma&theme=dark" />
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,python,html,css,figma&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,python,html,css,figma&theme=light" alt="Languages, Frameworks, and Tools" />
+          <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,python,html,css,figma" alt="Languages, Frameworks, and Tools" />
       </picture>
   </a>
 </p>
