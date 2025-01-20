@@ -52,16 +52,12 @@
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50px" height="50px" />
   <!-- Express.js -->
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50px" height="50px" />
-  <!-- Nest.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nest.js" width="50px" height="50px" />
   <!-- JavaScript -->
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50px" height="50px" />
   <!-- MongoDB -->
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50px" height="50px" />
   <!-- Tailwind CSS -->
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50px" height="50px" />
-  <!-- ShadCN -->
-  <img src="https://via.placeholder.com/50?text=ShadCN" alt="ShadCN" width="50px" height="50px" />
   <!-- Python -->
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50px" height="50px" />
   <!-- HTML -->
