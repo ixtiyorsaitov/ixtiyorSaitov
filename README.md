@@ -1,5 +1,5 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
+<img align="right" src="https://komarev.com/ghpvc/?username=ixtiyor">
 
 <!-- introduction -->
 <h1 align="center">
@@ -61,19 +61,19 @@
 <!-- achievements -->
 <h2 align="center">🏆 Achievements & Stats 🏆</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ixtiyor&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ixtiyor&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <!-- snake graph -->
 <div align="center">
   <h2>🐍 Snake eating my contributions 🐍</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ixtiyor/ixtiyor/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/ixtiyor/ixtiyor/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/ixtiyor/ixtiyor/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
 </div>
 
