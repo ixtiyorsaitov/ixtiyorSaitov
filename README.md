@@ -41,9 +41,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,shadcn,python,html,css,figma&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,shadcn,python,html,css,figma&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,shadcn,python,html,css,figma" alt="Languages, Frameworks and Tools" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,python,html,css,figma&theme=dark" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,python,html,css,figma&theme=light" />
+          <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,python,html,css,figma&theme=light" alt="Languages, Frameworks, and Tools" />
       </picture>
   </a>
 </p>
