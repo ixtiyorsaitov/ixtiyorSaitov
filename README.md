@@ -69,10 +69,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/IxtiyorRainAnimation.gif" alt="Rain Animation" />
-</p>
-
 
 <!-- snake graph -->
 <div align="center">
