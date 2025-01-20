@@ -58,13 +58,14 @@
 
 <hr />
 
+
 <!-- achievements -->
 <h2 align="center">🏆 Achievements & Stats 🏆</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ixtiyor&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ixtiyor&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <!-- snake graph -->
