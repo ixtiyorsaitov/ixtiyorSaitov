@@ -38,15 +38,40 @@
 <!-- skills -->
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
 <br />
+<!-- skills -->
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br />
 <p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,python,html,css,figma&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,python,html,css,figma&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,express,nestjs,javascript,mongodb,tailwind,python,html,css,figma" alt="Languages, Frameworks, and Tools" />
-      </picture>
-  </a>
+  <!-- Next.js -->
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50px" height="50px" />
+  <!-- TypeScript -->
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50px" height="50px" />
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50px" height="50px" />
+  <!-- Node.js -->
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50px" height="50px" />
+  <!-- Express.js -->
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50px" height="50px" />
+  <!-- Nest.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nest.js" width="50px" height="50px" />
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50px" height="50px" />
+  <!-- MongoDB -->
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50px" height="50px" />
+  <!-- Tailwind CSS -->
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50px" height="50px" />
+  <!-- ShadCN -->
+  <img src="https://via.placeholder.com/50?text=ShadCN" alt="ShadCN" width="50px" height="50px" />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50px" height="50px" />
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50px" height="50px" />
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50px" height="50px" />
+  <!-- Figma -->
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50px" height="50px" />
 </p>
+
 <br />
 
 <!-- deployment -->
