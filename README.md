@@ -68,48 +68,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ixtiyor&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
+
 <p align="center">
-  <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="black" />
-    <g>
-      <line x1="50" y1="0" x2="50" y2="50" stroke="blue" stroke-width="2">
-        <animate 
-          attributeName="y1" 
-          from="0" to="200" 
-          dur="1s" 
-          repeatCount="indefinite" />
-        <animate 
-          attributeName="y2" 
-          from="50" to="250" 
-          dur="1s" 
-          repeatCount="indefinite" />
-      </line>
-      <line x1="100" y1="0" x2="100" y2="50" stroke="blue" stroke-width="2">
-        <animate 
-          attributeName="y1" 
-          from="0" to="200" 
-          dur="1.2s" 
-          repeatCount="indefinite" />
-        <animate 
-          attributeName="y2" 
-          from="50" to="250" 
-          dur="1.2s" 
-          repeatCount="indefinite" />
-      </line>
-      <line x1="150" y1="0" x2="150" y2="50" stroke="blue" stroke-width="2">
-        <animate 
-          attributeName="y1" 
-          from="0" to="200" 
-          dur="1.5s" 
-          repeatCount="indefinite" />
-        <animate 
-          attributeName="y2" 
-          from="50" to="250" 
-          dur="1.5s" 
-          repeatCount="indefinite" />
-      </line>
-    </g>
-  </svg>
+  <img src="https://github.com/IxtiyorRainAnimation.gif" alt="Rain Animation" />
 </p>
 
 
