@@ -71,8 +71,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ixtiyorsaitov/ixtiyorsaitov/output/snake.svg" alt="Snake animation" />
 
 ###
