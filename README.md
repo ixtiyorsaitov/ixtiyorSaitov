@@ -122,7 +122,7 @@
 <!-- first row -->
 <div width="100%" align="center">
   <!-- repo 1 -->
-  <a align="right" href="https://github.com/sanidhyy/duolingo-clone" title="Duolingo Clone">
+  <a align="right" href="https://github.com/ixtiyorsaitov/telegram-clone" title="Telegram Clone">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=telegram-clone&theme=react&border_color=61dafb&border_radius=10.0" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=telegram-clone&theme=graywhite&border_radius=10.0" />
@@ -131,11 +131,11 @@
   </a>
 
   <!-- repo 2 -->
-  <a align="left" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
+  <a align="left" href="https://github.com/ixtiyorsaitov/stream-project" title="3D Portfolio">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3D portfolio" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=stream-project&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=stream-project&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=stream-project&theme=graywhite&border_radius=10" alt="ixtiyor's repository stats - stream-project" />
     </picture>
   </a>
 </div>
@@ -143,20 +143,20 @@
 <!-- second row -->
 <div width="100%" align="center">
   <!-- repo 3 -->
-  <a align="left" href="https://github.com/sanidhyy/mern-admin" title="MERN Admin Dashboard">
+  <a align="left" href="https://github.com/ixtiyorsaitov/cyber-ecommerce" title="MERN Admin Dashboard">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - MERN Admin Dashboard" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=cyber-ecommerce&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=cyber-ecommerce&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=cyber-ecommerce&theme=graywhite&border_radius=10" alt="ixtiyor's repository stats - cyber-ecommerce" />
     </picture>
   </a>
 
   <!-- repo 4 -->
-  <a align="right" href="https://github.com/sanidhyy/brainwave" title="Brainwave SaaS Landing Page">
+  <a align="right" href="https://github.com/ixtiyorsaitov/cyber-ecommerce-admin" title="cyber ecommerce project admin panel">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - Brainwave SaaS Landing Page" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=cyber-ecommerce-admin&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=cyber-ecommerce-admin&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ixtiyorsaitov&repo=cyber-ecommerce-admin&theme=graywhite&border_radius=10" alt="ixtiyor's repository stats - cyber-ecommerce-admin" />
     </picture>
   </a>
 </div>
@@ -167,7 +167,7 @@
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/sanidhyy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/ixtiyorsaitov?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
