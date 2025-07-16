@@ -1,6 +1,3 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
-
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,83 +6,73 @@
 </h1>
 
 <br />
-<!-- about me -->
-<p align="center">
-  Hi, I'm Ixtiyor Saitov, Web Developer/Coder 💻, Learner 👨‍💻 & Gamer 🦸‍♂️ from Uzbekistan 🇺🇿.
-  <br />
-  <br />
-  🎓 Currently a high school student.
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
-  <br />
-</p>
+<h2 align="left">Hi 👋! My name is Ixtiyor and I'm a NextJS developer, from Uzbekistan</h2>
 
-<!-- social handles -->
-<div align="center"> 
-  <a href="mailto:misterikh209@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ixtiyor-saitov-449856332" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+###
 
-<hr />
-
-<!-- skills -->
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br />
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50px" height="50px" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50px" height="50px" />
-</p>
-
-<!-- deployment -->
-<h2 align="center">🚀 Deployment Platforms 🚀</h2>
-<p align="center">
-  <a href="https://vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50px" height="50px"></a>
-  <a href="https://netlify.com" target="_blank"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50px" height="50px"></a>
-  <a href="https://planetscale.com" target="_blank"><img src="https://skillicons.dev/icons?i=planetscale" alt="PlanetScale" width="50px" height="50px"></a>
-</p>
-
-<hr />
-
-
-<!-- achievements -->
-<h2 align="center">🏆 Achievements & Stats 🏆</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ixtiyor&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ixtiyor&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-
-
-<!-- snake graph -->
 <div align="center">
-  <h2>🐍 Snake eating my contributions 🐍</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=ixtiyorsaitov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ixtiyorsaitov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<hr />
+###
 
-<!-- animation footer -->
-<h2 align="center">✨ Thanks for visiting! ✨</h2>
-<p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20Top-1abc9c?style=for-the-badge" alt="Back to Top" />
+<img align="right" height="150" src="https://i.ibb.co/JRsRsPgT/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="7" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="50" alt="vuejs logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="materialui logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="50" alt="socketio logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo"  />
+  <img width="7" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgresql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/ixtiyorsait0v/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</p>
+  <a href="https://t.me/saitov_next" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ixtiyor-saitov-449856332/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ixtiyorsaitov/ixtiyorsaitov/output/snake.svg" alt="Snake animation" />
+
+###
