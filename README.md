@@ -9,7 +9,7 @@
 <h2 align="left">Hi 👋! My name is Ixtiyor and I'm a NextJS developer, from Uzbekistan</h2>
 
 
-<img align="right" height="150" src="https://i.ibb.co/JRsRsPgT/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif"  />
+<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3OTY4NzAsIm5iZiI6MTc2Mjc5NjU3MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEwVDE3NDI1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4MDU3ODljMGMwYzE4Yjc3NGViMDk4OGU2YjRhMjVlOGFlMTA3M2U2ODg0NjgyNWNhMjM1MTBiYjM5ZWNhYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DDsp_TI7DfofiYc6UUvkCT0kdKgLnX66FxsjbSGzLKg"  />
 
 ###
 
